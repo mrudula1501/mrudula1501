@@ -3,9 +3,9 @@
 # Hi, I'm Mrudula Deshmukh
 
 Machine Learning Engineer | Data Scientist
-MS Data Science — University at Buffalo
+MS in Data Science — University at Buffalo
 
-Building machine learning systems and data platforms across **healthcare analytics, financial modeling, and applied AI**.
+I build machine learning systems and data pipelines that transform large datasets into predictive models and analytics tools across **healthcare, forecasting, and applied AI systems**.
 
 Portfolio • https://mrudula1501.github.io/
 LinkedIn • https://www.linkedin.com/in/dmrudula/
@@ -17,26 +17,44 @@ Email • [mrudulad25@gmail.com](mailto:mrudulad25@gmail.com)
 
 # Featured Projects
 
-## Synapse Street — AI Multi-Agent Stock Market Analysis
+## Synapse Street — Multi-Agent Financial Intelligence
 
-AI system using coordinated agents to analyze financial signals and detect short-selling opportunities.
+AI system using coordinated agents to analyze financial signals and identify short-selling opportunities.
 
-**Tech Stack**
+### System Architecture
+
+Market Data
+↓
+Feature Engineering
+↓
+Vector Embeddings
+↓
+Qdrant Vector Search
+↓
+LangGraph Agents
+↓
+Risk Scoring
+↓
+Streamlit Dashboard
+
+### Tech Stack
 
 Python • LangGraph • Qdrant • Hadoop HDFS • Pandas • Streamlit
 
-**Key Contributions**
+### Key Contributions
 
-• Designed vector search architecture using **Qdrant** for financial signal retrieval
-• Built data pipeline processing **5GB+ historical market data**
-• Implemented multi-agent orchestration using **LangGraph**
-• Developed feature engineering pipeline using technical indicators
+• Designed vector search architecture for contextual market signal retrieval
+• Built financial data pipeline processing **5GB+ historical market data**
+• Implemented multi-agent reasoning workflow using LangGraph
+• Engineered technical indicators for signal modeling
 
-**Results**
+### Results
 
-• 18% backtest return
-• AUROC: 0.642
-• Precision@10: 0.60
+• **18% backtest return**
+• **AUROC: 0.642**
+• **Precision@10: 0.60**
+
+### Repository
 
 [![Synapse Street](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Synapse-Street\&theme=github_dark)](https://github.com/mrudula1501/Synapse-Street)
 
@@ -44,24 +62,38 @@ Python • LangGraph • Qdrant • Hadoop HDFS • Pandas • Streamlit
 
 ## Alzheimer Detection — Medical Imaging ML
 
-Machine learning pipeline for early detection of Alzheimer’s disease using MRI image classification.
+Machine learning pipeline for early detection of Alzheimer’s disease using MRI classification.
 
-**Tech Stack**
+### System Pipeline
+
+MRI Image
+↓
+Image Preprocessing
+↓
+CNN Feature Extraction
+↓
+SVM Classification
+↓
+Prediction Output
+
+### Tech Stack
 
 Python • TensorFlow • CNN • SVM • Flask
 
-**Key Contributions**
+### Key Contributions
 
-• Implemented **CNN feature extraction** for MRI images
-• Built classification model using **SVM**
-• Developed inference pipeline for image-based predictions
-• Structured workflow for medical imaging dataset preprocessing
+• Implemented CNN feature extraction for MRI images
+• Developed SVM classification model for disease prediction
+• Structured medical imaging preprocessing pipeline
+• Built inference workflow for model prediction
 
-**Results**
+### Results
 
-• 92% classification accuracy on evaluation dataset
-• Improved recall over baseline models
-• Real-time inference pipeline
+• **92% classification accuracy**
+• Improved recall compared to baseline models
+• Real-time prediction pipeline
+
+### Repository
 
 [![Alzheimer Detection](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Alzheimer_detection\&theme=github_dark)](https://github.com/mrudula1501/Alzheimer_detection)
 
@@ -71,21 +103,37 @@ Python • TensorFlow • CNN • SVM • Flask
 
 Forecasting system predicting foodborne illness outbreaks using CDC surveillance data.
 
-**Tech Stack**
+### Forecasting Pipeline
+
+Historical Outbreak Data
+↓
+Seasonality Decomposition
+↓
+Feature Engineering
+↓
+Model Training (ARIMA / Prophet / LSTM)
+↓
+Ensemble Forecast
+↓
+Outbreak Prediction
+
+### Tech Stack
 
 Python • ARIMA • Prophet • LSTM • Random Forest
 
-**Key Contributions**
+### Key Contributions
 
-• Developed ensemble forecasting pipeline combining statistical and ML models
+• Built ensemble forecasting pipeline combining statistical and ML models
 • Implemented structural break detection using **PELT algorithm**
 • Modeled outbreak seasonality and trend patterns
 
-**Results**
+### Results
 
-• 10.5% MAPE prediction accuracy
-• RMSE improvement over baseline models
-• 4-week outbreak prediction window
+• **10.5% MAPE prediction accuracy**
+• **RMSE improvement over baseline models**
+• **4-week outbreak prediction window**
+
+### Repository
 
 [![Foodborne Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Foodborne-Illness-Forecasting\&theme=github_dark)](https://github.com/mrudula1501/Foodborne-Illness-Forecasting)
 
@@ -97,32 +145,44 @@ Python • ARIMA • Prophet • LSTM • Random Forest
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,git,linux" />
 </p>
 
-**Machine Learning**
+### Machine Learning
 
-Scikit-learn • PyTorch • TensorFlow • Feature Engineering • Model Evaluation
+Scikit-learn
+PyTorch
+TensorFlow
+Feature Engineering
+Model Evaluation
 
-**Data Systems**
+### Data Systems
 
-SQL • Pandas • NumPy • Hadoop HDFS • ETL Pipelines
+SQL
+Pandas
+NumPy
+Hadoop HDFS
+ETL Pipelines
 
-**Visualization**
+### Visualization
 
-Streamlit • Tableau • Matplotlib
+Streamlit
+Tableau
+Matplotlib
 
-**Infrastructure**
+### Infrastructure
 
-AWS • Hugging Face Spaces • Vultr
+AWS
+HuggingFace Spaces
+Vultr
 
 ---
 
-# Experiments & Interests
+# Experiments & Research Interests
 
-Current areas of exploration:
+Current areas of exploration
 
-• Multi-agent AI systems
+• Multi-agent AI architectures
 • Time series forecasting for healthcare data
-• Machine learning pipelines for large datasets
-• Scalable model deployment
+• Scalable machine learning pipelines
+• Data engineering for large datasets
 
 ---
 
