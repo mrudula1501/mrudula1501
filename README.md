@@ -2,142 +2,204 @@
 
 # 👋 Hi, I'm Mrudula Deshmukh
 
-**Data Scientist | ML Engineer | Analytics Engineer**
+**Data Scientist | Machine Learning Engineer | Analytics Engineer**
 
-MS in Data Science candidate at the University at Buffalo with experience building machine learning, analytics, and data engineering solutions in healthcare and applied AI.
+MS in Data Science candidate at the **University at Buffalo** building machine learning systems, analytics platforms, and data pipelines across **healthcare, finance, and applied AI**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrudula1501.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmrudula/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrudula1501)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudulad25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://mrudula1501.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dmrudula/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mrudula1501)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mrudulad25@gmail.com)
 
 </div>
----
-
-## 🚀 What I Do
-
-I build end-to-end data and machine learning systems that turn messy, high-volume data into useful predictions, dashboards, and business decisions.
-
-- **Machine Learning**: Predictive modeling, feature engineering, model evaluation, deep learning
-- **Data Engineering**: ETL pipelines, SQL optimization, distributed data systems, validation workflows
-- **Analytics**: Dashboarding, business insights, reporting, quality assurance
-- **Healthcare Data**: Clinical workflows, patient data pipelines, large-scale healthcare datasets
 
 ---
 
-## 💼 Experience
+# 🚀 What I Do
 
-### **Data Analyst Intern** @ Endeavor Health Services
-- Processed **500K+ patient records** and built automated ETL pipelines for healthcare analytics
-- Designed a **5-layer data lake architecture** for clinical event data
-- Implemented deduplication logic using SQL window functions
-- Worked with **SQL Server, Python, Pandas, and enterprise healthcare data platforms**
+I design **end-to-end machine learning and data systems** that convert large, messy datasets into predictive models, dashboards, and decision tools.
 
-### **MS in Data Science** @ University at Buffalo  
-**Expected Graduation:** December 2025
+My work focuses on:
 
-Focus areas:
-- Healthcare analytics
-- Data engineering
-- Machine learning
-- Clinical data integration and quality assurance
+• **Machine Learning** — predictive modeling, feature engineering, deep learning
+• **Data Engineering** — ETL pipelines, distributed systems, data validation
+• **Analytics Engineering** — dashboards, reporting pipelines, insights
+• **Healthcare Data Systems** — clinical analytics and large-scale patient data
 
 ---
 
-## 📊 Featured Projects
+# ⭐ Featured Projects
 
-### **Synapse Street** — AI Multi-Agent Stock Market Analysis
-**Tech Stack:** Python, LangGraph, Qdrant, Hadoop HDFS, Pandas
+### Synapse Street — AI Multi-Agent Stock Market Analysis
 
-AI-powered system for identifying short-selling opportunities using 3 autonomous agents that analyze market signals and unstructured data.
+AI system using coordinated agents to detect short-selling opportunities in financial markets.
 
-**Highlights**
-- Built vector search workflows using **Qdrant**
-- Developed data engineering pipeline with **HDFS + Pandas**
-- Contributed to multi-agent orchestration for financial analysis
-- Achieved **18% backtest returns**
+Tech: Python, LangGraph, Qdrant, Hadoop HDFS, Pandas
 
-[View Repository](https://github.com/mrudula1501/Synapse-Street)
+• Built vector search pipelines using **Qdrant**
+• Engineered financial data pipelines using **HDFS**
+• Contributed to multi-agent orchestration architecture
+• Achieved **18% backtest returns**
 
----
-
-### **Alzheimer Detection** — Deep Learning Classification
-**Tech Stack:** Python, CNN, SVM, Flask, Firebase
-
-Hybrid deep learning system for early Alzheimer’s detection using image-based classification and real-time application integration.
-
-**Highlights**
-- Combined **CNN-based feature extraction** with **SVM classification**
-- Built an applied prediction workflow for Alzheimer’s detection
-- Integrated the project with real-time system components
-
-[View Repository](https://github.com/mrudula1501/Alzheimer_detection)
+[![Synapse Street](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Synapse-Street)](https://github.com/mrudula1501/Synapse-Street)
 
 ---
 
-## 🛠️ Tech Stack
+### Alzheimer’s Disease Detection — Deep Learning Medical Imaging
 
-**Languages**  
-Python, SQL, Jupyter Notebook
+Deep learning system for early detection of Alzheimer’s using MRI classification.
 
-**Data & Analytics**  
-Pandas, NumPy, Scikit-learn, SQL Server, Hadoop HDFS
+Tech: Python, CNN, SVM, TensorFlow, Flask
 
-**Machine Learning & AI**  
-PyTorch, LangGraph, Qdrant, LLM Integration
+• CNN-based feature extraction + SVM classifier
+• Medical image processing workflow
+• Deployable prediction pipeline
 
-**Visualization**  
-Streamlit, Tableau, Matplotlib
-
-**Cloud & Infrastructure**  
-AWS, Hugging Face Spaces, Vultr
-
-**Version Control**  
-Git, GitHub
+[![Alzheimer Detection](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Alzheimer_detection)](https://github.com/mrudula1501/Alzheimer_detection)
 
 ---
 
-## 📈 Highlights
+### Foodborne Illness Forecasting — Healthcare Time Series
 
-- Processed **500K+ patient records** in a production healthcare environment
-- Engineered **5GB+** of financial and clinical data
-- Built a multi-agent AI system with **3 coordinated agents**
-- Delivered **18% backtest returns** in stock analysis
-- Developed predictive systems across healthcare and finance use cases
+Forecasting system predicting foodborne illness outbreaks using CDC surveillance data.
 
----
+Tech: Python, ARIMA, Prophet, LSTM, Random Forest
 
-## 🎓 Education
+• Built ensemble forecasting pipeline
+• Achieved **10.5% MAPE prediction accuracy**
+• Applied structural break detection using **PELT algorithm**
 
-**University at Buffalo**  
-MS in Data Science, expected December 2025
-
-Interested in applying machine learning and data engineering to real-world problems, especially in healthcare and high-impact decision systems.
+[![Foodborne Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Foodborne-Illness-Forecasting)](https://github.com/mrudula1501/Foodborne-Illness-Forecasting)
 
 ---
 
-## 📫 Let’s Connect
+# 💼 Experience
 
-- **LinkedIn:** [Mrudula Deshmukh](https://www.linkedin.com/in/dmrudula/)
-- **Email:** mrudulad25@gmail.com
-- **GitHub:** [mrudula1501](https://github.com/mrudula1501)
-- **Portfolio:** (https://mrudula1501.github.io/)
+### Data Analyst Intern — Endeavor Health Services
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrudula1501&show_icons=true&theme=default)
+• Processed **500K+ healthcare records** for analytics workflows
+• Built automated **ETL pipelines for clinical datasets**
+• Designed **5-layer healthcare data lake architecture**
+• Implemented SQL-based deduplication and validation pipelines
+• Worked with **SQL Server, Python, Pandas**
 
 ---
 
-## 🌱 Currently Learning
+# 🛠 Tech Stack
 
-- Real-time streaming systems with Kafka and Spark
-- Advanced SQL optimization and query performance
-- LLM applications in healthcare
-- Scalable ML deployment and model serving
+### Languages
+
+Python
+SQL
+R
+
+### Data & Analytics
+
+Pandas
+NumPy
+Scikit-learn
+SQL Server
+Hadoop HDFS
+
+### Machine Learning & AI
+
+PyTorch
+LangGraph
+Qdrant
+Deep Learning
+LLM Integration
+
+### Visualization
+
+Streamlit
+Tableau
+Matplotlib
+
+### Infrastructure
+
+AWS
+HuggingFace Spaces
+Vultr
+
+### Version Control
+
+Git
+GitHub
 
 ---
 
-**Open to full-time opportunities in Data Science, ML Engineering, Analytics Engineering, and Healthcare AI.**
+# 📈 Highlights
+
+• Processed **500K+ healthcare records** in production environments
+• Engineered **5GB+ datasets** across finance and healthcare
+• Built **multi-agent AI architecture with 3 coordinated agents**
+• Delivered **18% backtest returns in financial prediction**
+• Developed predictive analytics systems for healthcare datasets
+
+---
+
+# 🎓 Education
+
+**University at Buffalo**
+MS in Data Science
+Expected Graduation: **December 2025**
+
+Focus areas include healthcare analytics, machine learning systems, and large-scale data engineering.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrudula1501\&show_icons=true)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mrudula1501)
+
+---
+
+# 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula1501\&layout=compact)
+
+---
+
+# 🐍 Contribution Graph
+
+![Snake animation](https://github.com/mrudula1501/mrudula1501/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Let’s Connect
+
+LinkedIn
+https://www.linkedin.com/in/dmrudula/
+
+Email
+[mrudulad25@gmail.com](mailto:mrudulad25@gmail.com)
+
+GitHub
+https://github.com/mrudula1501
+
+Portfolio
+https://mrudula1501.github.io/
+
+---
+
+# 🌱 Currently Learning
+
+• Real-time data streaming with **Kafka and Spark**
+• Advanced SQL optimization
+• LLM applications in healthcare analytics
+• Scalable ML deployment and model serving
+
+---
+
+**Open to full-time roles in**
+
+Data Science
+Machine Learning Engineering
+Analytics Engineering
+Healthcare AI
