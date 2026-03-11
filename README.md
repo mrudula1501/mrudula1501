@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mrudula Deshmukh
 
-Machine Learning Engineer • Data Scientist
+Machine Learning Engineer • Data Scientist  
 MS in Data Science — University at Buffalo
 
 Building machine learning systems across **healthcare, finance, and applied AI**.
@@ -23,11 +23,11 @@ I work on building **machine learning systems and data pipelines** that convert 
 
 My interests include:
 
-• Machine learning systems
-• Data engineering pipelines
-• Healthcare analytics
-• Multi-agent AI architectures
-• Time series forecasting
+• Machine learning systems  
+• Data engineering pipelines  
+• Healthcare analytics  
+• Multi-agent AI architectures  
+• Time series forecasting  
 
 ---
 
@@ -37,7 +37,7 @@ My interests include:
 
 AI system using coordinated agents to detect short-selling opportunities in financial markets.
 
-Tech
+Tech  
 Python • LangGraph • Qdrant • Hadoop HDFS
 
 <a href="https://github.com/mrudula1501/Synapse-Street">
@@ -50,7 +50,7 @@ Python • LangGraph • Qdrant • Hadoop HDFS
 
 Deep learning pipeline for detecting Alzheimer’s disease from MRI images.
 
-Tech
+Tech  
 CNN • SVM • TensorFlow • Flask
 
 <a href="https://github.com/mrudula1501/Alzheimer_detection">
@@ -63,7 +63,7 @@ CNN • SVM • TensorFlow • Flask
 
 Time series forecasting system predicting foodborne illness outbreaks.
 
-Tech
+Tech  
 Prophet • ARIMA • LSTM • Random Forest
 
 <a href="https://github.com/mrudula1501/Foodborne-Illness-Forecasting">
@@ -104,22 +104,34 @@ AWS • HuggingFace Spaces • Vultr
 
 ---
 
+# Activity Graph
+
+[![Mrudula's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrudula1501&theme=github-compact)](https://github.com/mrudula1501)
+
+---
+
 # Current Focus
 
-• Real-time streaming with Kafka and Spark
-• Advanced SQL optimization
-• Machine learning deployment pipelines
-• LLM applications in healthcare
+• Real-time streaming with Kafka and Spark  
+• Advanced SQL optimization  
+• Machine learning deployment pipelines  
+• LLM applications in healthcare  
+
+---
+
+# Contribution Graph
+
+![Snake animation](https://github.com/mrudula1501/mrudula1501/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # Contact
 
-LinkedIn
+LinkedIn  
 https://www.linkedin.com/in/dmrudula/
 
-Email
-[mrudulad25@gmail.com](mailto:mrudulad25@gmail.com)
+Email  
+mrudulad25@gmail.com
 
-Portfolio
+Portfolio  
 https://mrudula1501.github.io/
