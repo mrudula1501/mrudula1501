@@ -1,110 +1,143 @@
-# 👋 Mrudula Deshmukh
+<div align="center">
 
-**Data Scientist | Analytics Engineer | Healthcare Data Enthusiast**
+# 👋 Hi, I'm Mrudula Deshmukh
 
-MS Data Science candidate at University at Buffalo | Passionate about building scalable data systems and extracting actionable insights from complex healthcare datasets.
+**Data Scientist | ML Engineer | Analytics Engineer**
+
+MS in Data Science candidate at the University at Buffalo with experience building machine learning, analytics, and data engineering solutions in healthcare and applied AI.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrudula1501.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmrudula/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrudula1501)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrudulad25@gmail.com)
+
+</div>
+---
+
+## 🚀 What I Do
+
+I build end-to-end data and machine learning systems that turn messy, high-volume data into useful predictions, dashboards, and business decisions.
+
+- **Machine Learning**: Predictive modeling, feature engineering, model evaluation, deep learning
+- **Data Engineering**: ETL pipelines, SQL optimization, distributed data systems, validation workflows
+- **Analytics**: Dashboarding, business insights, reporting, quality assurance
+- **Healthcare Data**: Clinical workflows, patient data pipelines, large-scale healthcare datasets
 
 ---
 
-## 🎯 What I Do
+## 💼 Experience
 
-I design end-to-end data solutions that transform raw data into business intelligence. My expertise spans:
+### **Data Analyst Intern** @ Endeavor Health Services
+- Processed **500K+ patient records** and built automated ETL pipelines for healthcare analytics
+- Designed a **5-layer data lake architecture** for clinical event data
+- Implemented deduplication logic using SQL window functions
+- Worked with **SQL Server, Python, Pandas, and enterprise healthcare data platforms**
 
-- **Data Engineering**: ETL pipelines, distributed systems (HDFS), database architecture
-- **Data Science & ML**: Statistical modeling, predictive analytics, feature engineering
-- **Analytics Engineering**: SQL optimization, dashboard development, data validation
-- **Healthcare Domain**: 500K+ patient records processed, deep understanding of clinical workflows
+### **MS in Data Science** @ University at Buffalo  
+**Expected Graduation:** December 2025
 
----
-
-## 💼 Current Focus
-
-**Data Analyst Intern** @ Endeavor Health Services
-- Processed 500K+ patient records and built automated ETL pipelines
-- Designed 5-layer data lake architecture for clinical event data
-- Implemented deduplication strategies using window functions
-- Technologies: SQL Server, DA2 Platform, Python, Pandas
-
-**MS Data Science** @ University at Buffalo (Graduating December 2025)
-- Specialization in Healthcare Analytics & Data Engineering
-- Thesis focus: Clinical data integration and quality assurance
+Focus areas:
+- Healthcare analytics
+- Data engineering
+- Machine learning
+- Clinical data integration and quality assurance
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Featured Projects
 
 ### **Synapse Street** — AI Multi-Agent Stock Market Analysis
-*UB Hacking 2024 | Python, LangGraph, Qdrant, Hadoop HDFS*
+**Tech Stack:** Python, LangGraph, Qdrant, Hadoop HDFS, Pandas
 
-An AI-powered system that detects short-selling opportunities by orchestrating 3 autonomous agents analyzing market data. Achieved **18% backtest returns** using vector search and machine learning.
+AI-powered system for identifying short-selling opportunities using 3 autonomous agents that analyze market signals and unstructured data.
 
-**My Contributions**: Vector search (Qdrant), data engineering pipeline (HDFS + Pandas), multi-agent orchestration
+**Highlights**
+- Built vector search workflows using **Qdrant**
+- Developed data engineering pipeline with **HDFS + Pandas**
+- Contributed to multi-agent orchestration for financial analysis
+- Achieved **18% backtest returns**
 
-[→ View Repository](https://github.com/mrudula1501/Synapse-Street)
+[View Repository](https://github.com/mrudula1501/Synapse-Street)
+
+---
 
 ### **Alzheimer Detection** — Deep Learning Classification
-*Python, CNN+SVM, Firebase, Arduino*
+**Tech Stack:** Python, CNN, SVM, Flask, Firebase
 
-Hybrid deep learning system for early Alzheimer's detection combining convolutional neural networks with SVM classification and real-time sensor integration.
+Hybrid deep learning system for early Alzheimer’s detection using image-based classification and real-time application integration.
 
-[→ View Repository](https://github.com/mrudula1501/Alzheimer_detection)
+**Highlights**
+- Combined **CNN-based feature extraction** with **SVM classification**
+- Built an applied prediction workflow for Alzheimer’s detection
+- Integrated the project with real-time system components
+
+[View Repository](https://github.com/mrudula1501/Alzheimer_detection)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, SQL, Jupyter Notebooks  
-**Data & Analytics**: Pandas, NumPy, Scikit-learn, SQL Server, Hadoop HDFS  
-**AI/ML**: LangGraph, Qdrant, PyTorch, LLM Integration  
-**Visualization**: Streamlit, Tableau, Matplotlib  
-**Cloud & Infrastructure**: AWS, Vultr, HuggingFace Spaces  
-**Version Control**: Git, GitHub  
+**Languages**  
+Python, SQL, Jupyter Notebook
+
+**Data & Analytics**  
+Pandas, NumPy, Scikit-learn, SQL Server, Hadoop HDFS
+
+**Machine Learning & AI**  
+PyTorch, LangGraph, Qdrant, LLM Integration
+
+**Visualization**  
+Streamlit, Tableau, Matplotlib
+
+**Cloud & Infrastructure**  
+AWS, Hugging Face Spaces, Vultr
+
+**Version Control**  
+Git, GitHub
 
 ---
 
-## 📊 By The Numbers
+## 📈 Highlights
 
-- **500K+** patient records processed in production
-- **5GB+** of financial/clinical data engineered
-- **18%** backtest returns (Synapse Street)
-- **0.64** AUROC on stock prediction model
-- **3** autonomous AI agents coordinated in one system
-
----
-
-## 🎓 Education & Background
-
-**MS Data Science** — University at Buffalo (Dec 2025)  
-**Background**: Healthcare family (Pharmacist + Doctor parents)  
-**Passion**: Using data to improve patient outcomes and healthcare efficiency  
+- Processed **500K+ patient records** in a production healthcare environment
+- Engineered **5GB+** of financial and clinical data
+- Built a multi-agent AI system with **3 coordinated agents**
+- Delivered **18% backtest returns** in stock analysis
+- Developed predictive systems across healthcare and finance use cases
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Education
 
-💼 **LinkedIn**: [Mrudula Deshmukh](https://www.linkedin.com/in/dmrudula/)  
-📧 **Email**: mrudulad25@gmail.com  
-🌐 **Portfolio**: *Coming soon*
+**University at Buffalo**  
+MS in Data Science, expected December 2025
+
+Interested in applying machine learning and data engineering to real-world problems, especially in healthcare and high-impact decision systems.
+
+---
+
+## 📫 Let’s Connect
+
+- **LinkedIn:** [Mrudula Deshmukh](https://www.linkedin.com/in/dmrudula/)
+- **Email:** mrudulad25@gmail.com
+- **GitHub:** [mrudula1501](https://github.com/mrudula1501)
+- **Portfolio:** (https://mrudula1501.github.io/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrudula1501&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrudula1501&show_icons=true&theme=default)
 
 ---
 
-## 💡 Current Learning
+## 🌱 Currently Learning
 
-- Real-time streaming architectures (Kafka, Spark)
-- Advanced SQL optimization and query planning
-- LLM applications in healthcare (RAG systems)
-- Scalable ML deployment (MLflow, model serving)
-
----
-
-**✨ Open to opportunities**: Data Analyst, Data Scientist, and Analytics Engineer roles (H-1B sponsorship available)
+- Real-time streaming systems with Kafka and Spark
+- Advanced SQL optimization and query performance
+- LLM applications in healthcare
+- Scalable ML deployment and model serving
 
 ---
 
-*Last updated: January 2026*
+**Open to full-time opportunities in Data Science, ML Engineering, Analytics Engineering, and Healthcare AI.**
