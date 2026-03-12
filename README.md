@@ -1,206 +1,158 @@
 <div align="center">
 
-# Hi, I'm Mrudula Deshmukh
+# Hi, I'm Mrudula Deshmukh 👋
 
-Machine Learning Engineer | Data Scientist
-MS in Data Science — University at Buffalo
+**Machine Learning Engineer · Data Scientist**  
+MS in Data Science — University at Buffalo, SUNY
 
-I build machine learning systems and data pipelines that transform large datasets into predictive models and analytics tools across **healthcare, forecasting, and applied AI systems**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mrudula1501.github.io-10B981?style=flat&logo=githubpages&logoColor=white)](https://mrudula1501.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dmrudula-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmrudula/)
+[![Email](https://img.shields.io/badge/Email-mrudulad25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mrudulad25@gmail.com)
 
-Portfolio • https://mrudula1501.github.io/
-LinkedIn • https://www.linkedin.com/in/dmrudula/
-Email • [mrudulad25@gmail.com](mailto:mrudulad25@gmail.com)
+I build ML systems and data pipelines that transform large datasets into predictive models and analytics tools — across **healthcare**, **forecasting**, and **applied AI systems**.
 
 </div>
 
 ---
 
-# Featured Projects
+## 🚀 Featured Projects
 
-## Synapse Street — Multi-Agent Financial Intelligence
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI system using coordinated agents to analyze financial signals and identify short-selling opportunities.
+### 🧠 Alzheimer's Detection
+**CNN + SVM medical imaging pipeline** for early Alzheimer's classification from MRI scans.
 
-### System Architecture
+- 92% classification accuracy
+- CNN feature extraction → SVM classifier
+- Real-time Flask inference endpoint
 
-Market Data
-↓
-Feature Engineering
-↓
-Vector Embeddings
-↓
-Qdrant Vector Search
-↓
-LangGraph Agents
-↓
-Risk Scoring
-↓
-Streamlit Dashboard
+**Stack:** Python · TensorFlow · Keras · Flask
 
-### Tech Stack
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/mrudula1501/alzheimers-detection)
 
-Python • LangGraph • Qdrant • Hadoop HDFS • Pandas • Streamlit
+</td>
+<td width="50%" valign="top">
 
-### Key Contributions
+### 📈 Synapse Street
+**Multi-agent AI system** for stock market analysis using LangGraph + Qdrant vector search.
 
-• Designed vector search architecture for contextual market signal retrieval
-• Built financial data pipeline processing **5GB+ historical market data**
-• Implemented multi-agent reasoning workflow using LangGraph
-• Engineered technical indicators for signal modeling
+- 42.8% backtest return vs. 24.5% buy & hold
+- 3 coordinated GPT-4 agents with consensus engine
+- 🥇 Best AI/ML — UB Hacking 2024
 
-### Results
+**Stack:** Python · LangGraph · Qdrant · Spark · Streamlit
 
-• **18% backtest return**
-• **AUROC: 0.642**
-• **Precision@10: 0.60**
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/mrudula1501/Synapse-Street)
 
-### Repository
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Synapse Street](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Synapse-Street\&theme=github_dark)](https://github.com/mrudula1501/Synapse-Street)
+### 🦠 Foodborne Illness Forecasting
+**Ensemble time series model** predicting outbreaks 4 weeks in advance using CDC data.
 
----
+- 10.5% MAPE · 100% outbreak detection sensitivity
+- Prophet + ARIMA + Random Forest stacked ensemble
+- PELT changepoint detection for regime shifts
 
-## Alzheimer Detection — Medical Imaging ML
+**Stack:** Python · Prophet · ARIMA · XGBoost · Streamlit
 
-Machine learning pipeline for early detection of Alzheimer’s disease using MRI classification.
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/mrudula1501/Foodborne-Illness-Forecasting)
 
-### System Pipeline
+</td>
+<td width="50%" valign="top">
 
-MRI Image
-↓
-Image Preprocessing
-↓
-CNN Feature Extraction
-↓
-SVM Classification
-↓
-Prediction Output
+### 💳 Fraud Detection ML
+**XGBoost ensemble** for financial fraud detection on 6.3M+ transactions.
 
-### Tech Stack
+- 99.92% ROC-AUC · 94% recall
+- SMOTE + stacking to handle 0.129% fraud rate
+- SHAP explainability for model transparency
 
-Python • TensorFlow • CNN • SVM • Flask
+**Stack:** Python · XGBoost · LightGBM · SHAP · Flask
 
-### Key Contributions
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/mrudula1501/fraud-detection-ml)
 
-• Implemented CNN feature extraction for MRI images
-• Developed SVM classification model for disease prediction
-• Structured medical imaging preprocessing pipeline
-• Built inference workflow for model prediction
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Results
+### 🚕 RoutePulse
+**Distributed Spark + Hadoop pipeline** processing 3.5M+ NYC taxi trips.
 
-• **92% classification accuracy**
-• Improved recall compared to baseline models
-• Real-time prediction pipeline
+- 91% payment-type prediction accuracy
+- Linear cluster scalability (5-node Hadoop)
+- DBSCAN anomaly detection for ghost trips
 
-### Repository
+**Stack:** PySpark · Hadoop HDFS · MLlib · Docker
 
-[![Alzheimer Detection](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Alzheimer_detection\&theme=github_dark)](https://github.com/mrudula1501/Alzheimer_detection)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/mrudula1501/RoutePulse)
 
----
+</td>
+<td width="50%" valign="top">
 
-## Foodborne Illness Forecasting — Healthcare Time Series
+### ⛓️ DeFi Analytics
+**PostgreSQL + BigQuery system** for Ethereum DeFi risk assessment.
 
-Forecasting system predicting foodborne illness outbreaks using CDC surveillance data.
+- BCNF-normalized schema with 7 FK constraints
+- 50–60% query speedup via strategic indexing
+- 4 suspicious pattern types detected across 10K+ transfers
 
-### Forecasting Pipeline
+**Stack:** PostgreSQL · Python · Google BigQuery · Pandas
 
-Historical Outbreak Data
-↓
-Seasonality Decomposition
-↓
-Feature Engineering
-↓
-Model Training (ARIMA / Prophet / LSTM)
-↓
-Ensemble Forecast
-↓
-Outbreak Prediction
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github)](https://github.com/mrudula1501/DeFi-Analytics)
 
-### Tech Stack
-
-Python • ARIMA • Prophet • LSTM • Random Forest
-
-### Key Contributions
-
-• Built ensemble forecasting pipeline combining statistical and ML models
-• Implemented structural break detection using **PELT algorithm**
-• Modeled outbreak seasonality and trend patterns
-
-### Results
-
-• **10.5% MAPE prediction accuracy**
-• **RMSE improvement over baseline models**
-• **4-week outbreak prediction window**
-
-### Repository
-
-[![Foodborne Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=mrudula1501\&repo=Foodborne-Illness-Forecasting\&theme=github_dark)](https://github.com/mrudula1501/Foodborne-Illness-Forecasting)
+</td>
+</tr>
+</table>
 
 ---
 
-# Technical Skills
+## 🛠️ Technical Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,spark,postgres,aws,docker,git,linux" />
 </p>
 
-### Machine Learning
-
-Scikit-learn
-PyTorch
-TensorFlow
-Feature Engineering
-Model Evaluation
-
-### Data Systems
-
-SQL
-Pandas
-NumPy
-Hadoop HDFS
-ETL Pipelines
-
-### Visualization
-
-Streamlit
-Tableau
-Matplotlib
-
-### Infrastructure
-
-AWS
-HuggingFace Spaces
-Vultr
+| Area | Tools |
+|------|-------|
+| **ML / DL** | Scikit-learn · XGBoost · LightGBM · TensorFlow · Keras · SHAP |
+| **Data Engineering** | Spark · Hadoop HDFS · Airflow · Pandas · NumPy · SQL |
+| **Time Series** | Prophet · ARIMA · statsmodels · ruptures |
+| **AI / LLMs** | LangGraph · LangChain · OpenAI API · Qdrant · RAG |
+| **Infrastructure** | Docker · AWS · FastAPI · Flask · Streamlit |
 
 ---
 
-# Experiments & Research Interests
+## 📊 GitHub Stats
 
-Current areas of exploration
+<div align="center">
 
-• Multi-agent AI architectures
-• Time series forecasting for healthcare data
-• Scalable machine learning pipelines
-• Data engineering for large datasets
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrudula1501&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula1501&layout=compact&theme=github_dark&hide_border=true)
 
-# GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrudula1501\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula1501\&layout=compact\&theme=github_dark)
+</div>
 
 ---
 
-# Connect
+## 🔬 Current Interests
 
-LinkedIn
-https://www.linkedin.com/in/dmrudula/
+- Multi-agent AI architectures for real-world decision systems
+- Time series forecasting for healthcare and public health
+- Scalable ML pipelines on distributed compute (Spark, Hadoop)
+- LLM-powered data analysis and RAG systems
 
-Portfolio
-https://mrudula1501.github.io/
+---
 
-Email
-[mrudulad25@gmail.com](mailto:mrudulad25@gmail.com)
+<div align="center">
+
+*Open to full-time ML Engineering and Data Science roles — feel free to reach out!*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmrudula/)
+
+</div>
