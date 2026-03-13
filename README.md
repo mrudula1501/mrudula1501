@@ -10,7 +10,7 @@
 
 <br/>
 
-*I build end-to-end ML systems — from raw messy data to deployed models that make real decisions.*  
+*I build end-to-end ML systems - from raw messy data to deployed models that make real decisions.*  
 *Healthcare AI · Time Series Forecasting · Financial ML · Multi-Agent LLM Systems*
 
 <br/>
