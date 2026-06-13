@@ -183,6 +183,39 @@ Relational database system for Ethereum DeFi risk assessment. BCNF-normalized Po
 <br/>
 
 ---
+---
+
+<details open>
+<summary><b>&nbsp;📊 &nbsp;Healthcare Program Scorecard</b> &nbsp;·&nbsp; Clinical Analytics · Power BI &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/healthcare_quality_dashboard">View Repo →</a></summary>
+<br/>
+
+Production analytics platform for **Endeavor Health Services** replacing manual monthly email reports with self-service clinical intelligence. A program manager selects their location and instantly sees **14 operational KPIs** compared against a 2025 baseline — with one-click drill-through to root-cause detail.
+
+```
+Cerner EHR (SQL + DA2)  →  SharePoint (monthly snapshots)
+          ↓
+  Power Query (165+ queries, 5 named layers)
+          ↓
+  [SOURCE] → [2025 BASELINE] → [SCORECARD] → [DRILL-THROUGH]
+          ↓
+  DAX SWITCH Measures  →  17-Page Power BI Report
+          ↓
+  Program Manager: location slicer  →  KPI matrix  →  drill-through pages
+```
+
+| Component | Detail |
+|-----------|--------|
+| KPIs tracked | 14 measures — admissions, withdrawals, referrals, retention, units billed |
+| Report pages | 17 pages · 165+ Power Query queries |
+| Architecture | Snapshot-append (point-in-time billing lock — intentional) |
+| Drill-through pages | Referrals · Units Total · Withdrawals · Not Seen in 90 Days · Pending Clients |
+| Baseline engine | Python pipelines → measure-level CSVs → DAX SWITCH measures |
+| Brand colors | Endeavor Blue `#3676BC` · Gray `#59595c` · Green `#63c29c` |
+
+**Stack:** &nbsp;`Power BI` &nbsp;`Power Query (M)` &nbsp;`DAX` &nbsp;`Python` &nbsp;`SQL` &nbsp;`Cerner DA2` &nbsp;`SharePoint`
+
+<br/>
+</details>
 
 ## &nbsp;Skills
 
@@ -204,6 +237,7 @@ Relational database system for Ethereum DeFi risk assessment. BCNF-normalized Po
 <br/>
 
 ---
+
 
 ## &nbsp;GitHub Stats
 
