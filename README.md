@@ -205,7 +205,7 @@ Relational database system for Ethereum DeFi risk assessment. BCNF-normalized Po
 ---
 
 <details open>
-<summary><b>&nbsp;📊 &nbsp;Healthcare Program Scorecard</b> &nbsp;·&nbsp; Clinical Analytics · Power BI &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/healthcare_quality_dashboard">View Repo →</a></summary>
+<summary><b>&nbsp;📊 &nbsp;Healthcare Program Scorecard</b> &nbsp;·&nbsp; Clinical Analytics · Power BI &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/scorecard-pipeline">View Repo →</a></summary>
 <br/>
 
 Production analytics platform for **Endeavor Health Services** replacing manual monthly email reports with self-service clinical intelligence. A program manager selects their location and instantly sees **14 operational KPIs** compared against a 2025 baseline - with one-click drill-through to root-cause detail.
