@@ -61,7 +61,7 @@ MRI Image  →  Preprocessing  →  CNN Feature Extraction  →  SVM Classifier 
 |--------|--------|
 | Classification Accuracy | **92%** |
 | Classes | AD · MCI · Cognitively Normal |
-| Deployment | Flask REST API for real-time inference |
+| Deployment | Flask web application |
 
 **Stack:** &nbsp;`Python` &nbsp;`TensorFlow` &nbsp;`Keras` &nbsp;`Scikit-learn` &nbsp;`Flask`
 
