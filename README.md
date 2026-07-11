@@ -79,15 +79,15 @@ Three coordinated **GPT-4 agents** — Data, Analysis, and Execution — share a
 ```
 Market Data + News + SEC Filings
           ↓
-  Qdrant Vector Memory (Ada-002 embeddings)
+Qdrant Vector Memory (Ada-002 embeddings)
           ↓
-  ┌─────────────┬─────────────┬─────────────┐
-  │ Data Agent  │Analysis Agent│Execution Agent│
-  └─────────────┴──────┬──────┴─────────────┘
-                       ↓
-            Consensus Engine (LangGraph)
-                       ↓
-                BUY / SELL / HOLD
+ ┌─────────────┬─────────────┬─────────────┐
+ │Data Agent│Analysis Agent│Execution Agent│
+ └─────────────┴──────┬──────┴─────────────┘
+          ↓
+Consensus Engine (LangGraph)
+          ↓
+  BUY / SELL / HOLD
 ```
 
 | Metric | Result |
@@ -113,11 +113,11 @@ Market Data + News + SEC Filings
 ```
 CDC NORS + FDA CORE + Weather + Census
           ↓
-  Airflow ETL  →  Feature Engineering
+Airflow ETL  →  Feature Engineering
           ↓
-  Prophet + ARIMA + Random Forest  →  XGBoost Meta-Learner
+Prophet + ARIMA + Random Forest  →  XGBoost Meta-Learner
           ↓
-  4-Week Forecast  →  Outbreak Alert ( > 2σ )
+4-Week Forecast  →  Outbreak Alert ( > 2σ )
 ```
 
 | Metric | Result |
@@ -142,9 +142,9 @@ Fraud detection on **6.3 million transactions** where only 0.129% are fraudulent
 ```
 6.3M Transactions  →  Feature Engineering  →  SMOTE
           ↓
-  XGBoost  +  LightGBM  →  Stacking Meta-Learner
+XGBoost  +  LightGBM  →  Stacking Meta-Learner
           ↓
-  Fraud Score (0–1)  →  Alert if > 0.7
+Fraud Score (0–1)  →  Alert if > 0.7
 ```
 
 | Metric | Result |
@@ -212,13 +212,13 @@ Production analytics platform for **Endeavor Health Services** replacing manual 
 ```
 Cerner EHR (SQL + DA2)  →  SharePoint (monthly snapshots)
           ↓
-  Power Query (165+ queries, 5 named layers)
+Power Query (165+ queries, 5 named layers)
           ↓
-  [SOURCE] → [2025 BASELINE] → [SCORECARD] → [DRILL-THROUGH]
+[SOURCE] → [2025 BASELINE] → [SCORECARD] → [DRILL-THROUGH]
           ↓
-  DAX SWITCH Measures  →  17-Page Power BI Report
+DAX SWITCH Measures  →  17-Page Power BI Report
           ↓
-  Program Manager: location slicer  →  KPI matrix  →  drill-through pages
+Program Manager: location slicer  →  KPI matrix  →  drill-through pages
 ```
 
 | Component | Detail |
