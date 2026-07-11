@@ -46,6 +46,7 @@ Synthea (synthetic EHR data)  →  dbt + Snowflake (staging → intermediate →
 **Stack:** &nbsp;`dbt` &nbsp;`Snowflake` &nbsp;`Python` &nbsp;`YAML` &nbsp;`LangGraph` &nbsp;`Claude API` &nbsp;`Power BI` &nbsp;`Synthea`
 
 <br/>
+</details>
 
 <details open>
 <summary><b>&nbsp;🧠 &nbsp;Alzheimer's Disease Detection</b> &nbsp;·&nbsp; Healthcare AI &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/alzheimers-detection">View Repo →</a></summary>
@@ -74,7 +75,7 @@ MRI Image  →  Preprocessing  →  CNN Feature Extraction  →  SVM Classifier 
 <summary><b>&nbsp;📈 &nbsp;Synapse Street</b> &nbsp;·&nbsp; Multi-Agent LLM System &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/Synapse-Street">View Repo →</a></summary>
 <br/>
 
-Three coordinated **GPT-4 agents** — Data, Analysis, and Execution — share a Qdrant vector memory and vote on every trade signal. A weighted consensus engine resolves disagreements. High-consensus signals (all 3 agents agree) hit a **78% win rate**.
+Three coordinated **GPT-4 agents** - Data, Analysis, and Execution - share a Qdrant vector memory and vote on every trade signal. A weighted consensus engine resolves disagreements. High-consensus signals (all 3 agents agree) hit a **78% win rate**.
 
 ```
 Market Data + News + SEC Filings
@@ -108,7 +109,7 @@ Consensus Engine (LangGraph)
 <summary><b>&nbsp;🦠 &nbsp;Foodborne Illness Forecasting</b> &nbsp;·&nbsp; Public Health · Time Series &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/Foodborne-Illness-Forecasting">View Repo →</a></summary>
 <br/>
 
-**Ensemble forecasting system** predicting foodborne illness outbreaks 4 weeks in advance using CDC surveillance data. Stacks Prophet, ARIMA, and Random Forest under an XGBoost meta-learner. PELT changepoint detection flags structural breaks — including the -40% reporting anomaly during COVID-19.
+**Ensemble forecasting system** predicting foodborne illness outbreaks 4 weeks in advance using CDC surveillance data. Stacks Prophet, ARIMA, and Random Forest under an XGBoost meta-learner. PELT changepoint detection flags structural breaks, including the -40% reporting anomaly during COVID-19.
 
 ```
 CDC NORS + FDA CORE + Weather + Census
@@ -165,7 +166,7 @@ Fraud Score (0–1)  →  Alert if > 0.7
 <summary><b>&nbsp;🚕 &nbsp;RoutePulse</b> &nbsp;·&nbsp; Distributed Big Data &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/RoutePulse">View Repo →</a></summary>
 <br/>
 
-Distributed ML pipeline processing **3.5M+ NYC taxi trips** on a 5-node Hadoop + Spark cluster. Three models run in parallel — payment-type classification, tip prediction, and DBSCAN anomaly detection for ghost trips. Achieves **linear cluster scalability**.
+Distributed ML pipeline processing **3.5M+ NYC taxi trips** on a 5-node Hadoop + Spark cluster. Three models run in parallel - payment-type classification, tip prediction, and DBSCAN anomaly detection for ghost trips. Achieves **linear cluster scalability**.
 
 | Model | Task | Result |
 |-------|------|--------|
@@ -241,16 +242,19 @@ Program Manager: location slicer  →  KPI matrix  →  drill-through pages
 
 **Machine Learning & AI**&nbsp;&nbsp;&nbsp;
 `Scikit-learn` `XGBoost` `LightGBM` `TensorFlow` `Keras` `PyTorch` `SHAP`
-`LangGraph` `LangChain` `OpenAI API` `Qdrant` `RAG Pipelines`
+`LangGraph` `LangChain` `OpenAI API` `Claude API` `Qdrant` `RAG Pipelines`
 
-**Data Engineering**&nbsp;&nbsp;&nbsp;
-`Apache Spark` `Hadoop HDFS` `Airflow` `Pandas` `NumPy` `SQL` `PostgreSQL` `BigQuery`
+**Data Engineering & Analytics Engineering**&nbsp;&nbsp;&nbsp;
+`dbt` `Snowflake` `Apache Spark` `Hadoop HDFS` `Airflow` `Pandas` `NumPy` `SQL` `PostgreSQL` `BigQuery`
 
 **Time Series**&nbsp;&nbsp;&nbsp;
 `Prophet` `ARIMA` `statsmodels` `pmdarima` `ruptures (PELT)`
 
+**BI & Visualization**&nbsp;&nbsp;&nbsp;
+`Power BI` `DAX` `Power Query` `Streamlit`
+
 **Deployment**&nbsp;&nbsp;&nbsp;
-`Flask` `FastAPI` `Docker` `Streamlit` `AWS`
+`Flask` `FastAPI` `Docker` `AWS`
 
 <br/>
 
@@ -274,7 +278,7 @@ Program Manager: location slicer  →  KPI matrix  →  drill-through pages
 
 <div align="center">
 
-**Open to full-time roles in ML Engineering · Data Science · Data Engineering**
+**Open to full-time roles in Healthcare Data Analytics · Analytics Engineering · Data Engineering**
 
 [linkedin.com/in/dmrudula](https://www.linkedin.com/in/dmrudula/) &nbsp;·&nbsp; [mrudulad25@gmail.com](mailto:mrudulad25@gmail.com)
 
