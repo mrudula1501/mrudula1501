@@ -224,9 +224,9 @@ Program Manager: location slicer  →  KPI matrix  →  drill-through pages
 
 | Component | Detail |
 |-----------|--------|
-| KPIs tracked | 14 measures — admissions, withdrawals, referrals, retention, units billed |
+| KPIs tracked | 14 measures - admissions, withdrawals, referrals, retention, units billed |
 | Report pages | 17 pages · 165+ Power Query queries |
-| Architecture | Snapshot-append (point-in-time billing lock — intentional) |
+| Architecture | Snapshot-append (point-in-time billing lock - intentional) |
 | Drill-through pages | Referrals · Units Total · Withdrawals · Not Seen in 90 Days · Pending Clients |
 | Baseline engine | Python pipelines → measure-level CSVs → DAX SWITCH measures |
 | Brand colors | Endeavor Blue `#3676BC` · Gray `#59595c` · Green `#63c29c` |
