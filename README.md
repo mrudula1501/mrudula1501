@@ -123,7 +123,7 @@ Prophet + ARIMA + Random Forest  →  XGBoost Meta-Learner
 | Metric | Result |
 |--------|--------|
 | MAPE | **10.5%** |
-| Outbreak Detection Sensitivity | **100%** — zero missed outbreaks |
+| Outbreak Detection Sensitivity | **100%** - zero missed outbreaks |
 | Advance Warning | **4 weeks** |
 
 **Stack:** &nbsp;`Prophet` &nbsp;`ARIMA` &nbsp;`XGBoost` &nbsp;`ruptures` &nbsp;`Airflow` &nbsp;`Streamlit`
