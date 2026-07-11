@@ -27,6 +27,32 @@
 
 ## &nbsp;What I've Built
 
+<details open>
+<summary><b>&nbsp;🏥 &nbsp;ClinIQ</b> &nbsp;·&nbsp; Clinical Quality Gap Analytics Platform &nbsp;·&nbsp; <a href="https://github.com/mrudula1501/cliniq">View Repo →</a></summary>
+<br/>
+
+A disease-agnostic clinical quality gap engine — swap a YAML config and the same architecture runs for heart failure, diabetes, hypertension, or any condition. Built on dbt + Snowflake, with a LangGraph + Claude agent that abstracts unstructured clinical notes into structured, audit-trailed quality measures.
+
+Synthea (synthetic EHR data)
+↓
+dbt + Snowflake (staging → intermediate → marts)
+↓
+YAML-driven gap detection engine
+↓
+┌──────────────────────┐     ┌───────────────────────┐
+│  Power BI dashboard  │     │  LangGraph AI agent   │
+│  (care-gap registry) │     │  (note → measure,     │
+│                      │     │   audit-logged)       │
+└──────────────────────┘     └───────────────────────┘
+
+| Metric | Result |
+|--------|--------|
+| Architecture | Config-driven — one codebase, any disease |
+| Data quality | dbt tests enforce ICD-10 validity, patient deduplication, gap-flag logic |
+| AI governance | Every agent inference logged with confidence score + evidence quote |
+
+**Stack:** &nbsp;`dbt` &nbsp;`Snowflake` &nbsp;`Python` &nbsp;`YAML` &nbsp;`LangGraph` &nbsp;`Claude API` &nbsp;`Power BI` &nbsp;`Synthea`
+
 <br/>
 
 <details open>
